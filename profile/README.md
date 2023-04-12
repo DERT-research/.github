@@ -1,4 +1,8 @@
-## Hi there 👋
+##👋 Oh, hi there 
+
+Welcome to DERT GitHub profile. 
+
+DERT GitHub is an open source library where researchers share codes and resources that potentially would benefit along your research journey.
 
 <!--
 
