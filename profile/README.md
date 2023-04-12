@@ -1,4 +1,4 @@
-##👋 Oh, hi there 
+## 👋 Oh, hi there 
 
 Welcome to DERT GitHub profile. 
 
