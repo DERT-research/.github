@@ -3,9 +3,7 @@
 Welcome to DERT GitHub profile. 
 
 DERT GitHub is an open source library where researchers share codes and resources that potentially would benefit along your research journey. Need help or have a question? Join the chat at 
-
 <br/>
-
 
 ### Contents
 - Mixed reality application
@@ -14,9 +12,7 @@ DERT GitHub is an open source library where researchers share codes and resource
 - Robot application
 - Customised End Effectors for Robots
 - Troubleshooting
-
 <br/>
-
 
 ### Contributing
 
