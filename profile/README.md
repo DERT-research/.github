@@ -12,7 +12,6 @@ DERT GitHub is an open source library where researchers share codes and resource
 - Robot application
 - Customised End Effectors for Robots
 - Troubleshooting
-<br/>
 
 ### Contributing
 
